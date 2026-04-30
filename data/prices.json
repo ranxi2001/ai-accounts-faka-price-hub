@@ -1,0 +1,498 @@
+{
+  "scraped_at": "2026-04-30 19:54:09",
+  "sites_scraped": 11,
+  "summary": [
+    {
+      "site": "Vuvuva",
+      "type": "faka",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "site": "AICTK Shop",
+      "type": "faka",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "TalkAI",
+      "type": "faka",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "site": "Caowo Store",
+      "type": "faka",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "site": "API Mart",
+      "type": "relay",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "Airiver",
+      "type": "relay",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "DragonCode",
+      "type": "relay",
+      "status": "ok",
+      "count": 8
+    },
+    {
+      "site": "LDXP 16UJ4RPB",
+      "type": "faka",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "LDXP EOTZ17J2",
+      "type": "faka",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "MAMABT",
+      "type": "faka",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "site": "AI666",
+      "type": "faka",
+      "status": "ok",
+      "count": 7
+    }
+  ],
+  "faka": {
+    "total": 16,
+    "products": [
+      {
+        "name": "claude max x20 $200 成品 已解决跳kyc验证问题 5x成品联系客服现做",
+        "price": 269.0,
+        "price_text": "¥269",
+        "stock": 214,
+        "stock_text": "库存：214",
+        "sold_text": "已售：1050",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "Vuvuva",
+        "platform_id": "vuvuva",
+        "url": "https://www.vuvuva.com/",
+        "source": "acg-faka",
+        "category": "Claude"
+      },
+      {
+        "name": "Claude Api 管转！网站注册后自助充值 不用在这里购买！",
+        "price": 1.0,
+        "price_text": "¥1",
+        "stock": 231,
+        "stock_text": "库存：231",
+        "sold_text": "已售：246",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "Vuvuva",
+        "platform_id": "vuvuva",
+        "url": "https://www.vuvuva.com/",
+        "source": "acg-faka",
+        "category": "Claude"
+      },
+      {
+        "name": "claude max x20 官方号池 镜像",
+        "price": 9.9,
+        "price_text": "¥9.9",
+        "stock": 270,
+        "stock_text": "库存：270",
+        "sold_text": "已售：153",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "Vuvuva",
+        "platform_id": "vuvuva",
+        "url": "https://www.vuvuva.com/",
+        "source": "acg-faka",
+        "category": "Claude"
+      },
+      {
+        "name": "Claude free 普号 开max 特殊处理专用号 礼品卡兑换专用稳定号",
+        "price": 8.0,
+        "price_text": "¥8",
+        "stock": 1660,
+        "stock_text": "库存：1660",
+        "sold_text": "已售：534",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "Vuvuva",
+        "platform_id": "vuvuva",
+        "url": "https://www.vuvuva.com/",
+        "source": "acg-faka",
+        "category": "Claude"
+      },
+      {
+        "name": "Plus月卡卡密-土区（质保）",
+        "price": 100.0,
+        "price_text": "￥100",
+        "stock": null,
+        "stock_text": "",
+        "sold_text": "",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "TalkAI",
+        "platform_id": "talkai",
+        "url": "https://talkai.cyou/",
+        "source": "tokyo",
+        "category": "ChatGPT"
+      },
+      {
+        "name": "pro  5× 1个月 卡密",
+        "price": 150.0,
+        "price_text": "￥150",
+        "stock": null,
+        "stock_text": "",
+        "sold_text": "",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "TalkAI",
+        "platform_id": "talkai",
+        "url": "https://talkai.cyou/",
+        "source": "tokyo",
+        "category": "Claude"
+      },
+      {
+        "name": "pro  20× 1个月 卡密",
+        "price": 249.0,
+        "price_text": "￥249",
+        "stock": null,
+        "stock_text": "",
+        "sold_text": "",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "TalkAI",
+        "platform_id": "talkai",
+        "url": "https://talkai.cyou/",
+        "source": "tokyo",
+        "category": "Claude"
+      },
+      {
+        "name": "Plus 12个月卡密",
+        "price": 230.0,
+        "price_text": "￥230",
+        "stock": null,
+        "stock_text": "",
+        "sold_text": "",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "TalkAI",
+        "platform_id": "talkai",
+        "url": "https://talkai.cyou/",
+        "source": "tokyo",
+        "category": "ChatGPT"
+      },
+      {
+        "name": "GPT Plus 一个月会员 -卡密自助 G渠道【仅支持新号】",
+        "price": 9.99,
+        "price_text": "¥9.99",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：852",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "Caowo Store",
+        "platform_id": "caowo",
+        "url": "https://caowo.store/",
+        "source": "acg-faka",
+        "category": "ChatGPT"
+      },
+      {
+        "name": "随机地区2020--2024年邮箱【包GCP】（3-4h补货）",
+        "price": 3.65,
+        "price_text": "¥3.65",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：5546",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "Gemini"
+      },
+      {
+        "name": "随机地区2026年邮箱（白号）【新品福利】（任何问题全质保）",
+        "price": 3.1,
+        "price_text": "¥3.1",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：38",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "邮箱/账号"
+      },
+      {
+        "name": "美区2022--2024年邮箱【80% GCP】（货源2.0）",
+        "price": 4.6,
+        "price_text": "¥4.6",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：120",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "Gemini"
+      },
+      {
+        "name": "美区地区2020--2024年邮箱【包GCP】（3-4h补货）",
+        "price": 4.65,
+        "price_text": "¥4.65",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：4854",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "Gemini"
+      },
+      {
+        "name": "2006-2019【高权重】随机gmail老邮箱",
+        "price": 6.9,
+        "price_text": "¥6.9",
+        "stock": 62,
+        "stock_text": "库存：62",
+        "sold_text": "已售：504",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "邮箱/账号"
+      },
+      {
+        "name": "随机2020--2024谷歌【半价资格】邮箱（只包资格和首登）",
+        "price": 7.2,
+        "price_text": "¥7.2",
+        "stock": 0,
+        "stock_text": "库存：0",
+        "sold_text": "已售：80",
+        "soldout": true,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "邮箱/账号"
+      },
+      {
+        "name": "测试支付回调",
+        "price": 0.01,
+        "price_text": "¥0.01",
+        "stock": 89,
+        "stock_text": "库存：89",
+        "sold_text": "已售：46",
+        "soldout": false,
+        "tags": [
+          "自动发货",
+          "推荐"
+        ],
+        "platform": "AI666",
+        "platform_id": "ai666",
+        "url": "https://ai666.dnxb.cc/",
+        "source": "acg-faka",
+        "category": "其他"
+      }
+    ]
+  },
+  "relay": {
+    "total": 8,
+    "models": [
+      {
+        "model": "Opus 4.7",
+        "raw": {
+          "模型名": "Opus 4.7",
+          "分组": "企业稳定版",
+          "倍率": "2.5x",
+          "输入（¥）": "¥12.50",
+          "输出（¥）": "¥62.50",
+          "官方（¥）": "¥35/¥175",
+          "折扣": "3.6折",
+          "OpenClaw": "否"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "Sonnet 4.6",
+        "raw": {
+          "模型名": "Sonnet 4.6",
+          "分组": "企业稳定版",
+          "倍率": "2.5x",
+          "输入（¥）": "¥7.50",
+          "输出（¥）": "¥37.50",
+          "官方（¥）": "¥21/¥105",
+          "折扣": "3.6折",
+          "OpenClaw": "否"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "Opus 4.7",
+        "raw": {
+          "模型名": "Opus 4.7",
+          "分组": "Kiro逆向",
+          "倍率": "0.65x",
+          "输入（¥）": "¥3.25",
+          "输出（¥）": "¥16.25",
+          "官方（¥）": "¥35/¥175",
+          "折扣": "0.9折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "Sonnet 4.6",
+        "raw": {
+          "模型名": "Sonnet 4.6",
+          "分组": "Kiro逆向",
+          "倍率": "0.65x",
+          "输入（¥）": "¥1.95",
+          "输出（¥）": "¥9.75",
+          "官方（¥）": "¥21/¥105",
+          "折扣": "0.9折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "Opus 4.6",
+        "raw": {
+          "模型名": "Opus 4.6",
+          "分组": "反重力逆向",
+          "倍率": "0.85x",
+          "输入（¥）": "¥4.25",
+          "输出（¥）": "¥21.25",
+          "官方（¥）": "¥35/¥175",
+          "折扣": "1.2折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "Sonnet 4.6",
+        "raw": {
+          "模型名": "Sonnet 4.6",
+          "分组": "反重力逆向",
+          "倍率": "0.85x",
+          "输入（¥）": "¥2.55",
+          "输出（¥）": "¥12.75",
+          "官方（¥）": "¥21/¥105",
+          "折扣": "1.2折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "5.4",
+        "raw": {
+          "模型名": "5.4",
+          "分组": "codex",
+          "倍率": "0.5x",
+          "输入（¥）": "¥2.5",
+          "输出（¥）": "¥12.75",
+          "官方（¥）": "¥35/¥157.5",
+          "折扣": "0.7折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      },
+      {
+        "model": "5.5",
+        "raw": {
+          "模型名": "5.5",
+          "分组": "codex",
+          "倍率": "0.5x",
+          "输入（¥）": "¥2.5",
+          "输出（¥）": "¥15",
+          "官方（¥）": "¥35/¥210",
+          "折扣": "0.7折",
+          "OpenClaw": "是"
+        },
+        "platform": "DragonCode",
+        "platform_id": "dragoncode",
+        "url": "https://dragoncode.codes/#model-pricing"
+      }
+    ]
+  }
+}

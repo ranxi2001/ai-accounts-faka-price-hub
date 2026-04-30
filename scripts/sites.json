@@ -1,0 +1,89 @@
+{
+  "sites": [
+    {
+      "id": "vuvuva",
+      "name": "Vuvuva",
+      "url": "https://www.vuvuva.com/",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "aictk",
+      "name": "AICTK Shop",
+      "url": "https://shop.aictk.shop/",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "talkai",
+      "name": "TalkAI",
+      "url": "https://talkai.cyou/",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "caowo",
+      "name": "Caowo Store",
+      "url": "https://caowo.store/",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "apimart",
+      "name": "API Mart",
+      "url": "https://apimart.ai/zh",
+      "type": "relay",
+      "enabled": true
+    },
+    {
+      "id": "airiver",
+      "name": "Airiver",
+      "url": "https://airiver.cn/usage",
+      "type": "relay",
+      "enabled": true
+    },
+    {
+      "id": "dragoncode",
+      "name": "DragonCode",
+      "url": "https://dragoncode.codes/#model-pricing",
+      "type": "relay",
+      "enabled": true
+    },
+    {
+      "id": "niuniuai",
+      "name": "牛牛 AI",
+      "url": "https://aipf.niuniuai.online/",
+      "type": "faka",
+      "enabled": false,
+      "note": "DNS无法解析，暂停"
+    },
+    {
+      "id": "ldxp_16uj4rpb",
+      "name": "LDXP 16UJ4RPB",
+      "url": "https://pay.ldxp.cn/shop/16UJ4RPB",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "ldxp_eotz17j2",
+      "name": "LDXP EOTZ17J2",
+      "url": "https://pay.ldxp.cn/shop/EOTZ17J2",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "mamabt",
+      "name": "MAMABT",
+      "url": "https://mamabt.top/",
+      "type": "faka",
+      "enabled": true
+    },
+    {
+      "id": "ai666",
+      "name": "AI666",
+      "url": "https://ai666.dnxb.cc/",
+      "type": "faka",
+      "enabled": true
+    }
+  ]
+}
