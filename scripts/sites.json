@@ -50,6 +50,13 @@
       "enabled": true
     },
     {
+      "id": "tosky",
+      "name": "Tosky AI",
+      "url": "https://ai.tosky.top/",
+      "type": "relay",
+      "enabled": true
+    },
+    {
       "id": "niuniuai",
       "name": "牛牛 AI",
       "url": "https://aipf.niuniuai.online/",
